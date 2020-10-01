@@ -3,7 +3,7 @@ from datetime import date, timedelta
 import requests
 
 TOKEN = "BOT TOKEN"
-WELCOME = "This bot is created by [@prabuniwatakawaca](tg://user?id=936028661)"
+WELCOME = "This bot is created by [@ramadhantriyant](tg://user?id=936028661)"
 HELP = "Just enter country name (_ex_: Indonesia or Thailand)"
 
 bot = TeleBot(TOKEN, parse_mode="MARKDOWN")
